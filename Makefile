@@ -1,3 +1,3 @@
 
 say-hello:
-	print("Hello, World!")
+	python3 -c "print('Hello, World!')"
